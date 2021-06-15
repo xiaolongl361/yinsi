@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+                                       抽签器隐私政策
 
-You can use the [editor on GitHub](https://github.com/xiaolongl361/yinsi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+我们非常重视用户的隐私。您在使用我们的服务时，我们可能会收集和使用您的相关信息，本隐私政策（“政策”）旨在解释我们在您使用我们服务期间如何收集，存储，使用，管理和保护您的用户信息。未经您的同意，我们不会出于任何目的访问或处理您的内容数据，除非适用的法律法规要求。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+请注意，本政策的范围仅限于您在使用软件和服务时收集或收到的您的用户信息（包括您的个人信息）。在本政策中，“个人信息”是指识别您身份或可用于识别您可以访问的其他个人信息（包括您的姓名，地址，电话号码和电子邮件地址）关联的信息，同时在使用产品功能时获取您的拍照，网络等权限。通过使用我们的软件和我们的服务，您表示您同意遵守本政策，并以本政策规定的方式收集，处理，披露和分享您的用户信息，包括您的个人信息。如果您不同意本政策的任何条款或本政策的任何后续变更，请不要使用我们的软件或我们的服务。
 
-### Markdown
+一、适用范围
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1、在您注册本应用app帐号时，您根据app要求提供的个人注册信息；
 
-```markdown
-Syntax highlighted code block
+2、在您使用本应用网络服务，或访问本应用平台页面时，本应用自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
 
-# Header 1
-## Header 2
-### Header 3
+3、本应用通过合法途径从商业伙伴处取得的用户个人数据。
 
-- Bulleted
-- List
+4、本应用严禁用户发布不良信息，如裸露、色情和亵渎内容，发布的内容我们会进行审核，一经发现不良信息，会禁用该用户的所有权限，予以封号处理。
 
-1. Numbered
-2. List
+5、您在注册账户或使用我们的服务时，向我们提供的相关个人信息，如电话号码，电子邮箱等。
 
-**Bold** and _Italic_ and `Code` text
+二、我们收集的信息
 
-[Link](url) and ![Image](src)
-```
+1、设备信息
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+当您在移动设备上使用我们的服务时，我们将收集有关您设备的信息，包括其国际移动设备标识（“IMEI”），手机型号，版本号，主要用作统计设备数，以了解您使用我们的服务的情况。
 
-### Jekyll Themes
+2、网络信息
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaolongl361/yinsi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+当您在线使用站点或服务时，可以直接查看我们的帮助页面和也可提交您对产品的建议或者意见。
 
-### Support or Contact
+三、我们如何使用信息
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1、本应用不会向任何与服务无关第三方提供、出售、出租、分享或交易您的个人登录信息。如果我们存储发生维修或升级，我们会在本协议中做更新。
+
+2、本应用亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本应用平台用户如从事上述活动，一经发现，本应用有权立即终止与该用户的服务协议。
+
+3、我们收集用户信息和个人信息，以便我们能够向您提供我们的产品和服务，并确保我们遵守相关法律。我们将根据“我们收集的信息”中提供的用户信息和个人详细信息用于以下目的：
+
+a) 服务。提供、处理、维护、改进我们的服务，包括客户支持以及通过我们的设备或我们的软件提供的其他服务。
+
+b) 系统分析。开发和分析使用我们的产品和服务的统计数据，以改进我们的产品和我们的服务。
+
+c) 收集您的反馈意见。您的反馈对帮助改善我们的服务具有重要价值。
+
+d) 获取您的敏感权限（例如相机、麦克风、联系人或电话）旨在更好的让你体验我们的产品功能和享受更好的服务。
+
+四、信息存储和披露
+
+1、本应用收集的有关您的信息和资料将保存在本应用及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或本应用收集信息和资料所在地的境外并在境外被访问、存储和展示。
+
+2、在如下情况下，本应用将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：
+
+a) 未经您事先同意，我们不会向第三方披露；
+
+b) 为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
+
+c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
+
+d) 如您出现违反中国有关法律、法规或者本应用服务协议或相关规则的情况，需要向第三方披露；
+
+e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；
+
+四、信息安全
+
+1、我们将采取合理措施，防止信息的丢失，未经您同意，我们不会与任何与提供服务无关的第三方分享您的个人信息。
+
+2、请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是本应用用户名及密码发生泄露，请您立即联络本应用客服，以便本应用采取相应措施。
+
+五、本隐私政策的更改
+
+1、如果决定更改隐私政策，我们会在本政策中、本公司网站中以及我们认为适当的位置发布这些更改，以便您了解我们如何收集、使用您的个人信息，哪些人可以访问这些信息，以及在什么情况下我们会透露这些信息。
+
+2、本公司保留随时修改本政策的权利，因此请经常查看。如对本政策作出重大更改，本公司会通过网站通知的形式告知。
+
+五、联系我们
+
+如果您对本隐私政策或本网站的实践有任何疑问，请与我们(xiaolongl361@gmail.com)联系。
